@@ -1,0 +1,6 @@
+[skill]
+  skill_package = "ai-news-pusher.skill"
+  name = "ai-news-pusher"
+  description = "自动检索VLA和世界模型领域的最新进展，筛选高质量文章并推送到飞书群；当用户需要获取AI领域最新动态、追踪前沿研究、推送技术文章到飞书时使用"
+  project_name = "科研进展检索技能"
+  project_description = "检索AI前沿进展推送到飞书"

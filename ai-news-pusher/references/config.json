@@ -1,0 +1,19 @@
+{
+  "feishu_webhook_url": "https://open.feishu.cn/open-apis/bot/v2/hook/0d9cf2d9-7c83-4ca3-a469-937d959d09eb",
+  "search_config": {
+    "topics": ["VLA", "world model"],
+    "days": 1,
+    "max_results_per_topic": 20,
+    "max_articles_to_push": 8
+  },
+  "schedule": {
+    "enabled": true,
+    "time": "10:00",
+    "timezone": "Asia/Shanghai"
+  },
+  "message_template": {
+    "header_color": "blue",
+    "include_highlights": true,
+    "include_summary": true
+  }
+}
